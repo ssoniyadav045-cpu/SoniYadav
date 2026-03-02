@@ -2,3 +2,8 @@ HELLO
 Myself Soni Yadav
 currently pusuing diploma in computer engineering 
 currently in second year at Zeal Polytechnic.
+following are the subject applicable
+java
+python
+data communication
+microprocesor
