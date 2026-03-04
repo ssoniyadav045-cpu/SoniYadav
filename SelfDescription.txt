@@ -1,0 +1,5 @@
+I am a highly motivated Diploma student in Computer Engineering with a strong focus on Java development and software programming. I possess a solid foundation in Core Java, object-oriented programming (OOP), data structures, and database management concepts. I have hands-on experience developing console-based and mini-project applications, applying concepts such as exception handling, collections, and JDBC connectivity.
+
+I am proficient in writing clean, efficient, and maintainable code, and I am familiar with version control tools like Git. My technical strengths include problem-solving, logical thinking, debugging, and understanding software development fundamentals. I continuously strive to enhance my skills by practicing coding and exploring advanced Java technologies.
+
+As an aspiring Java Developer, my goal is to contribute to real-world projects, gain industry exposure, and grow into a professional software developer by delivering reliable and scalable solutions.
